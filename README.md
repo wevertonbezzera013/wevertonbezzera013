@@ -1,5 +1,9 @@
 ### Hello! My name is Weverton! 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+### I'm a Full-Stack developer! ⚡
+
 - 🔭 I’m currently working on cloning famous web sites for my portifolio.
 - 🌱 I’m currently learning new technologys.
 - 👯 I’m looking to collaborate on projects that aggregate into something good for me. Such as build a good GitHub portifolio.
