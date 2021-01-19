@@ -47,7 +47,7 @@
 
 ---
 
-<img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api/pin/?username=weverton&wevertonbezzera013=github-readme-stats">
+<img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api/pin/?username=wevertonbezzera013&wevertonbezzera013=github-readme-stats">
 
 [twitter]: https://twitter.com/wev_dev
 [youtube]: https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w
