@@ -47,6 +47,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
+[Sejam bem-vindos, nerd!]("https://www.youtube.com/feeds/videos.xml?channel_id=UCCwI6nTtlty0Fp2QMdQV41w")
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/wev_dev
