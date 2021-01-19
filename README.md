@@ -43,6 +43,8 @@
 
 <img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api?theme=dark&username=wevertonbezzera013&show_icons=true&hide_border=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
