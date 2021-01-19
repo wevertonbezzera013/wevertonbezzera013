@@ -8,6 +8,9 @@
 - 😄 Pronouns: Him, He.
 - ⚡ Fun fact: I'm also a music producer and beatmaker.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="wevertonbezzera013 Spotify Playing" width="350" />](https://open.spotify.com/user/wevertonbezzera013)
 
 ### Connect with me:
 
