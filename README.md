@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | StackOverflow" width="22px" src="data:image/svg+xml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSIjZmY5ODAwIj48cGF0aCBkPSJtNi40NDQgMTQuODM5IDEwLjMzOCAyLjE5Ni40MzMtMi4wODktMTAuMzM4LTIuMjEyeiIvPjxwYXRoIGQ9Im02LjIxNSAxNy41NzFoMTAuNTY2djIuMTI3aC0xMC41NjZ6Ii8+PHBhdGggZD0ibTcuOCA5LjgzMSA5LjU3MiA0LjUyNi44ODctMS45NDQtOS41NzctNC41Mzh6Ii8+PHBhdGggZD0ibTE3LjM3MyAxNC4zNTgtLjAwMS0uMDAxLS4wMDEuMDAxeiIvPjwvZz48cGF0aCBkPSJtMiAxNS40Mjl2OC41NzFoMTguOTkydi04LjU3MWgtMi4xMTN2Ni40MjhoLTE0Ljc2NnYtNi40Mjh6IiBmaWxsPSIjNzU3NTc1Ii8+PHBhdGggZD0ibTEwLjQ1MyA1LjA2MyA4LjEwOSA2Ljg3MyAxLjM0Ni0xLjY1LTguMTA5LTYuODczeiIgZmlsbD0iI2ZmOTgwMCIvPjxwYXRoIGQ9Im0yMiA4LjU4Ny02LjMwMi04LjU4Ny0xLjY5MSAxLjI4NiA2LjMwMiA4LjU4N3oiIGZpbGw9IiNmZjk4MDAiLz48L3N2Zz4=" />][StackOverflow]
+[<img align="left" alt="Wev_Dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Wev_Dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Wev_Dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Wev_Dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
