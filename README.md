@@ -1,6 +1,6 @@
 ### Hello! My name is Weverton! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wev_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wev_dev)
 
 ### I'm a Full-Stack developer! ⚡
 
@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="wevertonbezzera013 Spotify Playing" width="350" />](https://open.spotify.com/user/wevertonbezzera013)
+[<img src="https://now-playing-wevertonbezzera013.vercel.app/api/spotify-playing" alt="wevertonbezzera013 Spotify Playing" width="350" />](https://open.spotify.com/user/wevertonbezzera013)
 
 ### Connect with me:
 
