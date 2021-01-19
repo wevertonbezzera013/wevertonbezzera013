@@ -42,7 +42,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sejam Bem-vindos, Nerds!](https://www.youtube.com/feeds/videos.xml?channel_id=UCCwI6nTtlty0Fp2QMdQV41w)
+- [Sejam Bem-vindos, Nerds!](https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/wev_dev
