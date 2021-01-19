@@ -35,9 +35,13 @@
 <br />
 <br />
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api/pin/?username=wevertonbezzera013&show_icons=true&hide_border=true"/>
 
 ### 📺 Latest YouTube Videos
 
@@ -45,9 +49,7 @@
 - [Sejam Bem-vindos, Nerds!](https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w)
 <!-- YOUTUBE:END -->
 
----
 
-<img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api/pin/?username=wevertonbezzera013&show_icons=true&hide_border=true">
 
 [twitter]: https://twitter.com/wev_dev
 [youtube]: https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w
