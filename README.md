@@ -1,8 +1,12 @@
+![wevdev](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/main/aef1456a77ad430f929373451f414d09.gif)
+
 ### Hello! My name is Weverton! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wev_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wev_dev)
 
 [![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)](https://github.com/wevertonbezzera013)
+
+![](https://komarev.com/ghpvc/?username=wevertonbezzera013&style=flat-square)
 
 ### I'm a Full-Stack developer! ⚡
 
@@ -25,10 +29,6 @@
 [<img align="left" alt="Wev_Dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### My Activity
-
-<!--START_SECTION:activity-->
 
 ### Languages and Tools:
 
