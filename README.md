@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-wevertonbezzera013.vercel.app/api/spotify-playing" alt="wevertonbezzera013 Spotify Playing" width="350" />](https://open.spotify.com/user/wevertonbezzera013)
+[![Spotify](https://wevertonbezzera013.vercel.app/api/spotify)](https://open.spotify.com/user/wevertonbezzera013)
 
 ### Connect with me:
 
