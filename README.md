@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/wev_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wev_dev)
 
+![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)
+
 ### I'm a Full-Stack developer! ⚡
 
 - 🔭 I’m currently working on cloning famous web sites for my portifolio.
