@@ -26,8 +26,7 @@
 
 ### My Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
 ### Languages and Tools:
 
