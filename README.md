@@ -6,9 +6,9 @@
 
 ### I'm a Full-Stack developer! ⚡
 
-- 🔭 I’m currently working on cloning famous web sites for my portifolio.
+- 🔭 I’m currently working on improve myself.
 - 🌱 I’m currently learning new technologys.
-- 👯 I’m looking to collaborate on projects that aggregate into something good for me. Such as build a good GitHub portifolio.
+- 👯 I’m looking to collaborate on projects that aggregates into something good for me.
 - 🤔 I’m looking for help with Front-end and back end technologys.
 - 💬 Ask me about why I've started programming.            
 - 😄 Pronouns: Him, He.
