@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://wevertonbezzera013.vercel.app//api/spotify)](https://open.spotify.com/user/wevertonbezzera013)
+[![Spotify](https://novatorem-d54icf8nh.vercel.app/api/spotify.py)](https://open.spotify.com/user/wevertonbezzera013)
 
 ### Connect with me:
 
