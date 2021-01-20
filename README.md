@@ -49,6 +49,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hoje dei início a um projeto que venho...](https://www.linkedin.com/posts/weverton-bezerra-da-costa-061ab11a4_sejam-bem-vindos-nerds-activity-6757377853911793664-E02J)
+- [Mais um dia de trabalho voluntário...](https://www.linkedin.com/feed/update/urn:li:activity:6708527043920846848/)
+- [Faça parte da história de alguém! Salve...](https://www.linkedin.com/feed/update/urn:li:activity:6707023930437312512/)
+- [Dia em que eu, juntamente da galera...](https://www.linkedin.com/feed/update/urn:li:activity:6707709758079565824/)
+- [Meu clone do Google, utilizando...](https://www.linkedin.com/posts/weverton-bezerra-da-costa-061ab11a4_html-css-javascript-activity-6723038100588634114-dQRX)
 <!-- BLOG-POST-LIST:END -->
 
 ---
