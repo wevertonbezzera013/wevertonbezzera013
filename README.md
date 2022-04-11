@@ -2,6 +2,8 @@
 
 ### Hello! My name is Weverton! 👋
 
+![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.gif)
+
 ### Hello! That's my Online Portfolio
 
 https://wevdev.netlify.app/
