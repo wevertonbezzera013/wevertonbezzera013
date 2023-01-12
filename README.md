@@ -64,10 +64,6 @@ https://wevdev.netlify.app/
 
 ---
 
-<img aling="left" alt="Weverton GitHub Stat" src="https://github-readme-stats.vercel.app/api?theme=dark&username=wevertonbezzera013&show_icons=true&hide_border=true"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&&show_icons=true&hide_border=true&username=wevertonbezzera013&layout=compact)]
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
