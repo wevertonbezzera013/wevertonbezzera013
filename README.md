@@ -4,8 +4,6 @@
 
 ![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.svg)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wev_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/wev_dev)
-
 [![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)](https://github.com/wevertonbezzera013)
 
 ![](https://komarev.com/ghpvc/?username=wevertonbezzera013&style=flat-square)
