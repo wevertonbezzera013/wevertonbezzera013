@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on improve myself.
 - 🌱 I’m currently learning new technologys.
 - 👯 I’m looking to collaborate on projects that aggregates into something good for me.
-- 🤔 I’m looking for help with Front-end and back end technologys.
 - 💬 Ask me about why I've started programming.            
 - 😄 Pronouns: Him, He.
 - ⚡ Fun fact: I'm also a music producer and beatmaker.
@@ -58,15 +57,8 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Sejam Bem-vindos, Nerds!](https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w)
-<!-- YOUTUBE:END -->
-
 
 
 [twitter]: https://twitter.com/wev_dev
 [youtube]: https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w
 [linkedin]: https://www.linkedin.com/in/weverton-bezerra-da-costa-061ab11a4/
-[webdevplaylist]: https://www.youtube.com/channel/UCCwI6nTtlty0Fp2QMdQV41w
