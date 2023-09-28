@@ -12,7 +12,7 @@
 - 😄 Pronouns: Him, He.
 - ⚡ Fun fact: I'm also a music producer and beatmaker.
 
-![image load fail. please open proxy retry](https://github.com/wevertonbezzera013/commit-snake/blob/snk/snk.svg)
+![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.gif)
 
 
 ******Contacts:******
