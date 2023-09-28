@@ -57,7 +57,7 @@
 
 <div>
 <a href="https://github.com/wevertonbezzera013/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wevertonbezzera013&theme=dark" />
 </a>
 <a href="https://github.com/wevertonbezzera013/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wevertonbezzera013&layout=compact&theme=dark&langs_count=8&card_width=320" />
