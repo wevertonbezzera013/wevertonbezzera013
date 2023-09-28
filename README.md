@@ -61,9 +61,9 @@
 
 <div>
 <a href="https://github.com/wevertonbezzera013/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula" />
 </a>
 <a href="https://github.com/wevertonbezzera013/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wevertonbezzera013&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wevertonbezzera013&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
 </div>
