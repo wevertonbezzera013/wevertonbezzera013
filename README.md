@@ -6,8 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)](https://github.com/wevertonbezzera013)
 
-![](https://komarev.com/ghpvc/?username=wevertonbezzera013&style=flat-square)
-
 ******I'm a Full-Stack developer! ⚡******
 
 - 🔭 I’m currently working on improve myself.
@@ -21,12 +19,6 @@
 ******Spotify Playing 🎧******
 
 [![Spotify](https://novatorem-d54icf8nh.vercel.app/api/spotify.py)](https://open.spotify.com/user/wevertonbezzera013)
-
-******Connect with me******
-
-[<img align="left" alt="Wev_Dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Wev_Dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Wev_Dev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -49,6 +41,14 @@
 ---
 
 ******Contacts:******
-[twitter]: https://twitter.com/wev_dev
-[linkedin]: https://www.linkedin.com/in/weverton-bezerra-da-costa-061ab11a4/
-[instagram]: https://www.instagram.com/wevdev_/
+<div>
+<a href="https://www.instagram.com/wevdev_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:wevertonbezzera013@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/weverton-bezerra-da-costa-061ab11a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/wevertonbezzera013">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcfilho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dbcfilho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
