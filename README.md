@@ -62,6 +62,5 @@
 <div>
 <a href="https://github.com/wevertonbezzera013">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&layout=compact&langs_count=7&theme=dark"/>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_progress=false
 <img loading="lazy" height="180em" src="github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_progress=true&layout=pie"/>
 </div>
