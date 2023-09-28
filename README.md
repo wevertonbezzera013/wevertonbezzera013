@@ -1,3 +1,10 @@
+<p>
+  <img src="https://profile-counter.glitch.me/wevertonbezzera013/count.svg" />
+</p>
+
+<br />
+<br />
+
 ![wevdev](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/main/aef1456a77ad430f929373451f414d09.gif)
 
 <br />
