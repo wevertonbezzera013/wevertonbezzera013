@@ -4,13 +4,16 @@
 
 
 # I'm a Full-Stack developer! ⚡
-- 🔭 I’m currently working on improve myself.
-- 🌱 I’m currently learning new technologys.
-- 👯 I’m looking to collaborate on projects that aggregates into something good for me.
-- 🤔 I’m looking for help with Front-end and back end technologys.
-- 💬 Ask me about why I've started programming.            
-- 😄 Pronouns: Him, He.
-- ⚡ Fun fact: I'm also a music producer and beatmaker.
+- 🚀 Full-Stack Developer with a passion for building digital experiences!
+- 🌟 On a relentless quest for self-improvement and innovation.
+- 📚 Always diving into new technologies, eager to push boundaries.
+- 🤝 Open to meaningful collaborations that drive impactful projects.
+- 🔎 Exploring the intricate realms of Front-end and Back-end technologies.
+- 💡 Ask me about my programming journey, what motivates me, and my favorite tech stack!
+- 🎯 Currently enhancing my skills in back-end technologies.
+- 🌍 Dreaming of creating applications that can change the world, one line of code at a time.
+- 🏆 Achieving small wins every day to reach my long-term goals.
+- 🎵 Outside coding, I groove to the rhythm of music and appreciate a good book.
 
 ![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake-dark.svg)
 
