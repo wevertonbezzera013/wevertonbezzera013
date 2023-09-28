@@ -60,8 +60,10 @@
 <br />
 
 <div>
-<a href="https://github.com/wevertonbezzera013">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src=""/>
-[![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_progress=true&layout=pie)](https://github.com/wevertonbezzera013/github-readme-stats)
+<a href="https://github.com/wevertonbezzera013/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/wevertonbezzera013/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wevertonbezzera013&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
