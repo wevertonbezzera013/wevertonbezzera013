@@ -6,6 +6,7 @@
 <br />
 
 ![wevdev](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/main/aef1456a77ad430f929373451f414d09.gif)
+![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
 
 <br />
 <br />
