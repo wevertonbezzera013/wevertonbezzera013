@@ -1,10 +1,16 @@
 ![wevdev](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/main/aef1456a77ad430f929373451f414d09.gif)
 
+<br />
+<br />
+
 ******Hello! My name is Weverton! 👋******
 
 ![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)](https://github.com/wevertonbezzera013)
+
+<br />
+<br />
 
 ******I'm a Full-Stack developer! ⚡******
 
@@ -16,10 +22,14 @@
 - 😄 Pronouns: Him, He.
 - ⚡ Fun fact: I'm also a music producer and beatmaker.
 
+<br />
+<br />
+
 ******Spotify Playing 🎧******
 
 [![Spotify](https://novatorem-d54icf8nh.vercel.app/api/spotify.py)](https://open.spotify.com/user/wevertonbezzera013)
 
+<br />
 <br />
 
 ******Languages and Tools:******
@@ -38,7 +48,6 @@
 
 <br />
 <br />
----
 
 ******Contacts:******
 <div>
@@ -47,8 +56,11 @@
 <a href="https://www.linkedin.com/in/weverton-bezerra-da-costa-061ab11a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br />
+<br />
+
 <div>
 <a href="https://github.com/wevertonbezzera013">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&layout=compact&langs_count=7&theme=shadow_green"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wevertonbezzera013&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
