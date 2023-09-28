@@ -5,7 +5,7 @@
 
 ******Hello! My name is Weverton! 👋******
 
-![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake.gif)](https://github.com/wevertonbezzera013)
 
 [![GitHub followers](https://img.shields.io/github/followers/wevertonbezzera013?logo=GitHub&style=for-the-badge)](https://github.com/wevertonbezzera013)
 
