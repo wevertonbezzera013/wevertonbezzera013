@@ -5,16 +5,16 @@
 
 # I'm a Cybersecurity Analyst! 🔐
 
--🚀 Skilled in safeguarding digital environments against cyber threats and vulnerabilities.
--🌟 Committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
--📚 Always exploring the latest cyber defense technologies, eager to enhance protective measures.
--🤝 Open to collaborations focused on strengthening security postures and mitigating risks.
--🔎 Delving into the intricate realms of network security, incident response, and threat intelligence.
--💡 Ask me about my cybersecurity journey, what motivates me to defend digital landscapes, and my expertise in threat detection and prevention!
--🎯 Currently honing my skills in malware analysis and penetration testing.
--🌍 Dreaming of creating a safer digital world, one security protocol at a time.
--🏆 Achieving milestones every day to contribute to the resilience of cyberspace.
--🎵 Outside of cybersecurity, I stay vigilant to the pulse of technology trends and appreciate a good challenge.
+- 🚀 Skilled in safeguarding digital environments against cyber threats and vulnerabilities.
+- 🌟 Committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
+- 📚 Always exploring the latest cyber defense technologies, eager to enhance protective measures.
+- 🤝 Open to collaborations focused on strengthening security postures and mitigating risks.
+- 🔎 Delving into the intricate realms of network security, incident response, and threat intelligence.
+- 💡 Ask me about my cybersecurity journey, what motivates me to defend digital landscapes, and my expertise in threat detection and prevention!
+- 🎯 Currently honing my skills in malware analysis and penetration testing.
+- 🌍 Dreaming of creating a safer digital world, one security protocol at a time.
+- 🏆 Achieving milestones every day to contribute to the resilience of cyberspace.
+- 🎵 Outside of cybersecurity, I stay vigilant to the pulse of technology trends and appreciate a good challenge.
 
 ![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake-dark.svg)
 
