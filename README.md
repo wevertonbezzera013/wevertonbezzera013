@@ -16,6 +16,8 @@
 - 🏆 Achieving milestones every day to contribute to the resilience of cyberspace.
 - 🎵 Outside of cybersecurity, I stay vigilant to the pulse of technology trends and appreciate a good challenge.
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=330582" style='border:none;'></iframe>
+
 ![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake-dark.svg)
 
 
