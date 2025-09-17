@@ -1,7 +1,5 @@
 # Hi, I'm Weverton! 👋
 
-![wevdev](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/main/aef1456a77ad430f929373451f414d09.gif)
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/weverton013.png" alt="Your Image Badge" />
 
 # I'm a Cybersecurity Analyst! 🔐
