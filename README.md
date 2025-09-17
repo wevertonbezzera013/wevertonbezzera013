@@ -1,68 +1,50 @@
 # Hi, I'm Weverton! 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/weverton013.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/weverton013.png" alt="TryHackMe Badge" width="250"/>
 
-# I'm a Cybersecurity Analyst! 🔐
+## 🔐 Cybersecurity Analyst & Ethical Hacker
 
-- 🚀 Skilled in safeguarding digital environments against cyber threats and vulnerabilities.
-- 🌟 Committed to continuous learning and staying ahead in the ever-evolving field of cybersecurity.
-- 📚 Always exploring the latest cyber defense technologies, eager to enhance protective measures.
-- 🤝 Open to collaborations focused on strengthening security postures and mitigating risks.
-- 🔎 Delving into the intricate realms of network security, incident response, and threat intelligence.
-- 💡 Ask me about my cybersecurity journey, what motivates me to defend digital landscapes, and my expertise in threat detection and prevention!
-- 🎯 Currently honing my skills in malware analysis and penetration testing.
-- 🌍 Dreaming of creating a safer digital world, one security protocol at a time.
-- 🏆 Achieving milestones every day to contribute to the resilience of cyberspace.
-- 🎵 Outside of cybersecurity, I stay vigilant to the pulse of technology trends and appreciate a good challenge.
+I'm passionate about **securing digital environments** and sharing hands-on knowledge with the community. From **penetration testing** to **vulnerability research**, I focus on **practical security skills** that make a difference.  
 
-![snake gif](https://github.com/wevertonbezzera013/wevertonbezzera013/blob/output/github-contribution-grid-snake-dark.svg)
+- 🚀 Protecting networks, applications, and cloud systems from real threats  
+- 🛠️ Hands-on experience with pen testing, SIEM, incident response, and threat intelligence  
+- 📚 Continuous learning through certifications, CTFs, labs, and security projects  
+- 🎯 Currently deep-diving into malware analysis and advanced ethical hacking  
 
+---
 
-******Contacts:******
+## 📌 Featured Profiles & Projects
+
 <div>
-<a href="https://www.wev-dev.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/wevdev_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:wevertonbezzera013@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/weverton-bezerra-da-costa-061ab11a4/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/wev_dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+<a href="https://tryhackme.com/r/p/wevsec" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://github.com/wevertonbezzera013" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.youtube.com/@wev_sec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://v0-cybersecurity-analyst-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="mailto:wevertonbezzera013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<p>
-  <img src="https://profile-counter.glitch.me/wevertonbezzera013/count.svg" />
-</p>
+---
 
-<br />
-<br />
+## 💻 Skills & Tools
 
-******Spotify Playing 🎧******
+<img align="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Kali Linux" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" />
+<img align="left" alt="Wireshark" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wireshark_Logo.png" />
+<img align="left" alt="Metasploit" width="28px" src="https://avatars.githubusercontent.com/u/20346506?s=200&v=4" />
+<img align="left" alt="Burp Suite" width="28px" src="https://upload.wikimedia.org/wikipedia/en/0/03/BurpSuite.png" />
+<img align="left" alt="TryHackMe" width="28px" src="https://tryhackme-badges.s3.amazonaws.com/logo.png" />
+<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br><br>
+
+## 🎯 My Mission
+
+I’m here to **make digital spaces safer** — one vulnerability at a time.  
+I share tutorials, labs, and practical insights to **help beginners and professionals grow** in cybersecurity.  
+
+---
+
+## 🎧 Currently Listening
 
 [![Spotify](https://novatorem-d54icf8nh.vercel.app/api/spotify.py)](https://open.spotify.com/user/wevertonbezzera013)
-
-<br />
-<br />
-
-******Languages and Tools:******
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-<div>
-<a href="https://github.com/wevertonbezzera013/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wevertonbezzera013&theme=dark" />
-</a>
-<a href="https://github.com/wevertonbezzera013/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wevertonbezzera013&layout=compact&theme=dark&langs_count=8&card_width=320" />
-</a>
-</div>
