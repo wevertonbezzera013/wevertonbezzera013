@@ -25,11 +25,5 @@ I'm passionate about **securing digital environments** and sharing hands-on know
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wevertonbezzera013&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wevertonbezzera013&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=wevertonbezzera013&icon=2&color=4)](https://visitcount.itsvg.in)
