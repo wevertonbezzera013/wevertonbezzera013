@@ -4,6 +4,8 @@
 
 ## 🔐 Cybersecurity Analyst & Ethical Hacker
 
+<a href="https://v0-cybersecurity-analyst-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+
 I'm passionate about **securing digital environments** and sharing hands-on knowledge with the community. From **penetration testing** to **vulnerability research**, I focus on **practical security skills** that make a difference.  
 
 - 🚀 Protecting networks, applications, and cloud systems from real threats  
@@ -11,40 +13,25 @@ I'm passionate about **securing digital environments** and sharing hands-on know
 - 📚 Continuous learning through certifications, CTFs, labs, and security projects  
 - 🎯 Currently deep-diving into malware analysis and advanced ethical hacking  
 
----
 
-## 📌 Featured Profiles & Projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/weverton-bezerra-da-costa-061ab11a4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wev_sec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wev_sec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wevertonbezzera013@gmail.com) 
 
-<div>
-<a href="https://tryhackme.com/r/p/wevsec" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href="https://github.com/wevertonbezzera013" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@wev_sec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://v0-cybersecurity-analyst-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-<a href="mailto:wevertonbezzera013@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wevertonbezzera013&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wevertonbezzera013&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wevertonbezzera013&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wevertonbezzera013&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-## 💻 Skills & Tools
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<img align="left" alt="Linux" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Kali Linux" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" />
-<img align="left" alt="Wireshark" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wireshark_Logo.png" />
-<img align="left" alt="Metasploit" width="28px" src="https://avatars.githubusercontent.com/u/20346506?s=200&v=4" />
-<img align="left" alt="Burp Suite" width="28px" src="https://upload.wikimedia.org/wikipedia/en/0/03/BurpSuite.png" />
-<img align="left" alt="TryHackMe" width="28px" src="https://tryhackme-badges.s3.amazonaws.com/logo.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br><br>
-
-## 🎯 My Mission
-
-I’m here to **make digital spaces safer** — one vulnerability at a time.  
-I share tutorials, labs, and practical insights to **help beginners and professionals grow** in cybersecurity.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wevertonbezzera013&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
-
-## 🎧 Currently Listening
-
-[![Spotify](https://novatorem-d54icf8nh.vercel.app/api/spotify.py)](https://open.spotify.com/user/wevertonbezzera013)
+[![](https://visitcount.itsvg.in/api?id=wevertonbezzera013&icon=2&color=4)](https://visitcount.itsvg.in)
